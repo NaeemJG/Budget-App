@@ -1,1 +1,1 @@
-web: node express.js
+web: npx nodemon express.js
